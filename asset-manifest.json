@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/PortF/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/PortF/static/js/main.6daf087b.chunk.js",
-    "main.js.map": "/PortF/static/js/main.6daf087b.chunk.js.map",
-    "runtime-main.js": "/PortF/static/js/runtime-main.2ea65e1c.js",
-    "runtime-main.js.map": "/PortF/static/js/runtime-main.2ea65e1c.js.map",
+    "main.js": "/PortF/static/js/main.4fcfa7aa.chunk.js",
+    "main.js.map": "/PortF/static/js/main.4fcfa7aa.chunk.js.map",
+    "runtime-main.js": "/PortF/static/js/runtime-main.3ea56d3f.js",
+    "runtime-main.js.map": "/PortF/static/js/runtime-main.3ea56d3f.js.map",
     "static/js/2.9ce25fde.chunk.js": "/PortF/static/js/2.9ce25fde.chunk.js",
     "static/js/2.9ce25fde.chunk.js.map": "/PortF/static/js/2.9ce25fde.chunk.js.map",
-    "static/js/3.66348d1d.chunk.js": "/PortF/static/js/3.66348d1d.chunk.js",
-    "static/js/3.66348d1d.chunk.js.map": "/PortF/static/js/3.66348d1d.chunk.js.map",
     "index.html": "/PortF/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/PortF/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.9ce25fde.chunk.js.LICENSE.txt": "/PortF/static/js/2.9ce25fde.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/PortF/static/media/logo.6ce24c58.svg"
+    "static/js/2.9ce25fde.chunk.js.LICENSE.txt": "/PortF/static/js/2.9ce25fde.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ea65e1c.js",
+    "static/js/runtime-main.3ea56d3f.js",
     "static/js/2.9ce25fde.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6daf087b.chunk.js"
+    "static/js/main.4fcfa7aa.chunk.js"
   ]
 }
